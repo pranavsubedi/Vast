@@ -1,0 +1,457 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="start" breakType="linear" breakId="pre-roll">
+<vmap:AdSource id="pre-roll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:01:30.000" breakType="linear" breakId="sbs-1">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/7174d7b6-86c2-4119-a708-1449a0fb9619/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="underlay-1">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://creative-p.undertone.com/demo/ctv/lexus2.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:07:00.000" breakType="linear" breakId="overlay-1">
+<vmap:AdSource id="midroll-3-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://creative-p.undertone.com/demo/ctv/lexus2.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:08:00.000" breakType="linear" breakId="midroll-0">
+<vmap:AdSource id="midroll-0-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://cuemana1.blob.core.windows.net/media/vastsfordemo/7and8.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:10:00.000" breakType="linear" breakId="pip-1">
+<vmap:AdSource id="midroll-4-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:12:00.000" breakType="linear" breakId="midroll-1">
+<vmap:AdSource id="midroll-04-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:13:00.000" breakType="linear" breakId="midroll-2">
+<vmap:AdSource id="midroll-5-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:13:30.000" breakType="linear" breakId="midroll-3">
+<vmap:AdSource id="midroll-6-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:14:00.000" breakType="linear" breakId="midroll-4">
+<vmap:AdSource id="midroll-7-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:14:30.000" breakType="linear" breakId="midroll-5">
+<vmap:AdSource id="midroll-8-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:15:00.000" breakType="linear" breakId="midroll-6">
+<vmap:AdSource id="midroll-9-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:15:30.000" breakType="linear" breakId="midroll-7">
+<vmap:AdSource id="midroll-10-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:16:00.000" breakType="linear" breakId="midroll-8">
+<vmap:AdSource id="midroll-11-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:16:30.000" breakType="linear" breakId="midroll-9">
+<vmap:AdSource id="midroll-12-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:17:00.000" breakType="linear" breakId="midroll-10">
+<vmap:AdSource id="midroll-13-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:17:30.000" breakType="linear" breakId="midroll-11">
+<vmap:AdSource id="midroll-14-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:18:00.000" breakType="linear" breakId="midroll-12">
+<vmap:AdSource id="midroll-15-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:18:30.000" breakType="linear" breakId="midroll-13">
+<vmap:AdSource id="midroll-16-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:19:00.000" breakType="linear" breakId="midroll-14">
+<vmap:AdSource id="midroll-17-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:19:30.000" breakType="linear" breakId="midroll-15">
+<vmap:AdSource id="midroll-18-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:20:00.000" breakType="linear" breakId="midroll-16">
+<vmap:AdSource id="midroll-19-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:20:30.000" breakType="linear" breakId="midroll-17">
+<vmap:AdSource id="midroll-20-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:21:00.000" breakType="linear" breakId="midroll-18">
+<vmap:AdSource id="midroll-21-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:21:30.000" breakType="linear" breakId="midroll-19">
+<vmap:AdSource id="midroll-22-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:22:00.000" breakType="linear" breakId="midroll-20">
+<vmap:AdSource id="midroll-23-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:22:30.000" breakType="linear" breakId="midroll-21">
+<vmap:AdSource id="midroll-24-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:23:00.000" breakType="linear" breakId="midroll-22">
+<vmap:AdSource id="midroll-25-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:23:30.000" breakType="linear" breakId="midroll-23">
+<vmap:AdSource id="midroll-26-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:24:00.000" breakType="linear" breakId="midroll-24">
+<vmap:AdSource id="midroll-27-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:24:30.000" breakType="linear" breakId="midroll-25">
+<vmap:AdSource id="midroll-28-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:25:00.000" breakType="linear" breakId="midroll-26">
+<vmap:AdSource id="midroll-29-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:25:30.000" breakType="linear" breakId="midroll-27">
+<vmap:AdSource id="midroll-30-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:26:00.000" breakType="linear" breakId="midroll-28">
+<vmap:AdSource id="midroll-31-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:26:30.000" breakType="linear" breakId="midroll-29">
+<vmap:AdSource id="midroll-32-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:27:00.000" breakType="linear" breakId="midroll-30">
+<vmap:AdSource id="midroll-33-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:27:30.000" breakType="linear" breakId="midroll-31">
+<vmap:AdSource id="midroll-34-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:28:00.000" breakType="linear" breakId="midroll-32">
+<vmap:AdSource id="midroll-35-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:28:30.000" breakType="linear" breakId="midroll-34">
+<vmap:AdSource id="midroll-36-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:29:00.000" breakType="linear" breakId="midroll-36">
+<vmap:AdSource id="midroll-38-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:29:30.000" breakType="linear" breakId="midroll-37">
+<vmap:AdSource id="midroll-39-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:30:00.000" breakType="linear" breakId="midroll-38">
+<vmap:AdSource id="midroll-40-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:30:30.000" breakType="linear" breakId="midroll-39">
+<vmap:AdSource id="midroll-41-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:31:00.000" breakType="linear" breakId="midroll-40">
+<vmap:AdSource id="midroll-42-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:31:30.000" breakType="linear" breakId="midroll-41">
+<vmap:AdSource id="midroll-42-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:32:00.000" breakType="linear" breakId="midroll-42">
+<vmap:AdSource id="midroll-43-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:32:30.000" breakType="linear" breakId="midroll-43">
+<vmap:AdSource id="midroll-44-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:33:00.000" breakType="linear" breakId="midroll-44">
+<vmap:AdSource id="midroll-45-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:33:30.000" breakType="linear" breakId="midroll-45">
+<vmap:AdSource id="midroll-46-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:34:00.000" breakType="linear" breakId="midroll-46">
+<vmap:AdSource id="midroll-47-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:34:30.000" breakType="linear" breakId="midroll-47">
+<vmap:AdSource id="midroll-48-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:35:00.000" breakType="linear" breakId="midroll-48">
+<vmap:AdSource id="midroll-49-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:35:30.000" breakType="linear" breakId="midroll-49">
+<vmap:AdSource id="midroll-50-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:36:00.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:36:30.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:37:00.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:37:30.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:38:00.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:38:30.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:39:00.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:39:30.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:40:00.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:40:30.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:41:00.000" breakType="linear" breakId="midroll-">
+<vmap:AdSource id="midroll-51-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/32b92840-5e36-44f9-96ad-90158d772404/vast.xml?n=1&iu=%2F7176%2FWillowTV%2FWillowTV_ROS%2FWillowTV_ROS_Video&sz=320x240%7C420x315%7C640x480%7C1280x720%7C1920x1080&impl=s&env=vp&tfcd=0&npa=0&us_privacy=us_privacy&coppa=0&is_lat=1&gdfp_req=1&ad_rule=0&output=vast&unviewed_position_start=1&ad_type=skippablevideo&max_ad_duration=30000&pod=1&pmnd=0&pmxd=30000&pmad=1&content_cat=IAB17-9&content_channel=Willow%20TV&content_network=Willow%20TV&content_genre=Sports&genre_id=%5BGENRE_ID%5D&content_language=en&content_id=312195&device_type=&correlator=75530009&description_url=https%3A%2F%2Fwww.willow.tv&vpmute=0&vpa=0&vad_format=linear&url=https%3A%2F%2Fwww.willow.tv&vpos=midroll&rdid=&idtype=&cookie=ID%3Daksdjflaksjdfhl%3AT%3DaksdjflaksjdfhlALNI_Ma5JwHXz04BjRymhJYVJOTbMSEHOg&scor=aksdjflaksjdfhl&ip=84.17.41.82&sid=aksdjflaksjdfhl&useragent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A134.0)%20Gecko%2F20100101%20Firefox%2F134.0&video_url_to_fetch=https%3A%2F%2Fwww.willow.tv&vad_type=linear&cookie_enabled=1&ctv=0&idt=1087&is_amp=0&osd=2&ptt=20&ref=https%3A%2F%2Fwww.willow.tv&sdk_apis=2,7,8&vis=1&u_so=l&hl=en&frm=0&mpt=h5_vsi&sdki=445&sdkv=h.3.617.1&sdr=1&nel=0&afvsz=200x200,450x50,468x60,480x70&kfa=0 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+<vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
