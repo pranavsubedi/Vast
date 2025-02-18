@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+    <script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+    <script/>
+    <script/>
+    
+    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="pre-roll">
+        <vmap:AdSource id="pre-roll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    
+    <vmap:AdBreak timeOffset="00:01:30.000" breakType="linear" breakId="sbs-1">
+        <vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://podfusion.g-mana.live/media-server/place/a1a644a2-9b1d-489e-a909-41387d4a9dfe/vast.xml?breakduration=[user.avail_duration_secs]&breakid=[user.break_id] ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    
+    <vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="underlay-1">
+        <vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://creative-p.undertone.com/demo/ctv/lexus2.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    
+    <vmap:AdBreak timeOffset="00:07:00.000" breakType="linear" breakId="overlay-1">
+        <vmap:AdSource id="midroll-3-ads" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://podfusion.g-mana.live/media-server/place/9bf5dc1f-1441-48a4-96e1-e126e225d8f0/vast.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    
+    <vmap:AdBreak timeOffset="00:10:00.000" breakType="linear" breakId="pip-1">
+        <vmap:AdSource id="midroll-4-ads" allowMultipleAds="true" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://cdn.g-mana.online/media/vtttest/10SecondsAD.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+ <vmap:AdBreak timeOffset="00:15:00.000" breakType="linear" breakId="midroll-1">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+ <vmap:AdBreak timeOffset="00:20:00.000" breakType="linear" breakId="midroll-2">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:25:00.000" breakType="linear" breakId="midroll-3">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:30:00.000" breakType="linear" breakId="midroll-4">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:35:00.000" breakType="linear" breakId="midroll-5">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:40:00.000" breakType="linear" breakId="midroll-6">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:45:00.000" breakType="linear" breakId="midroll-7">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:50:00.000" breakType="linear" breakId="midroll-8">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:53:00.000" breakType="linear" breakId="midroll-9">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+ <vmap:AdBreak timeOffset="00:56:00.000" breakType="linear" breakId="midroll-10">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+
+    
+    <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+        <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+            </vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+</vmap:VMAP>
+raw
+formatted
