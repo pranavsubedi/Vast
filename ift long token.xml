@@ -1,0 +1,176 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="start" breakType="linear" breakId="pre-roll">
+<vmap:AdSource id="pre-roll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:02:00.000" breakType="linear" breakId="sbs-1">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:04:04.000" breakType="linear" breakId="underlay-1">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:08:00.000" breakType="linear" breakId="sbs-2">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:10:00.000" breakType="linear" breakId="underlay-2">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:12:00.000" breakType="linear" breakId="sbs-3">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:14:00.000" breakType="linear" breakId="underlay-3">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:16:00.000" breakType="linear" breakId="sbs-4">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:18:00.000" breakType="linear" breakId="underlay-4">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:19:00.000" breakType="linear" breakId="midroll-1">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:20:00.000" breakType="linear" breakId="sbs-5">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:21:00.000" breakType="linear" breakId="midroll-2">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:22:00.000" breakType="linear" breakId="midroll-3">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:23:00.000" breakType="linear" breakId="midroll-4">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:25:00.000" breakType="linear" breakId="midroll-5">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:27:00.000" breakType="linear" breakId="midroll-6">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:28:30.000" breakType="linear" breakId="midroll-7">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+
+<vmap:AdBreak timeOffset="00:30:00.000" breakType="linear" breakId="underlay-5">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:32:00.000" breakType="linear" breakId="midroll-8">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:34:00.000" breakType="linear" breakId="midroll-9">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+<vmap:AdBreak timeOffset="00:36:00.000" breakType="linear" breakId="midroll-10">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">           <![CDATA[ https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+
+<vmap:AdBreak timeOffset="00:50:00.000" breakType="linear" breakId="sbs-6">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:05:00.000" breakType="linear" breakId="underlay-6">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="01:30:00.000" breakType="linear" breakId="sbs-7">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/82b6edf4-8e40-413a-93af-ab0a9cf79b65/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="02:00:00.000" breakType="linear" breakId="underlay-7">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[ https://podfusion.g-mana.live/media-server/place/56db8461-d616-439f-a605-a03fc34965f7/vast.xml?n=1 ]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
