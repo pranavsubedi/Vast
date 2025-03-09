@@ -386,7 +386,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=c051af36-ded1-48de-8a81-1166dc1a4cac,fcapmode=campaign,repetitionpolicy=0,repeattime=0,fcapcount=100,fcapwindow=24,position=3,positionpriority=2,positionmode=strict ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=c051af36-ded1-48de-8a81-1166dc1a4cac,fcapmode=campaign,repetitionpolicy=0,repeattime=0,fcapcount=100,fcapwindow=24,position=3,positionpriority=0,positionmode=strict ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
